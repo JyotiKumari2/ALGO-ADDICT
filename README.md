@@ -57,7 +57,7 @@ To start contributing, follow the guidelines below:
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_name>/ALGO-ADDICT.git
+git clone --depth 1 https://github.com/<your_username>/ALGO-ADDICT.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
